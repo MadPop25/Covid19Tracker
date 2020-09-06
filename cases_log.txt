@@ -1,0 +1,144 @@
+Covid-19 report for today 06/05/2020 11:14:38 PM:
+-Today Cases: 387 new cases
+-Today Deaths: 17 new deaths
+------------------------------
+-Total Cases: 7588
+-Total Deaths: 469
+-Recovered: 1815
+-Active Cases: 5773
+****************************************
+Covid-19 report for today 07/05/2020 09:33:34 PM:
+-Today Cases: 393 new cases
+-Today Deaths: 13 new deaths
+------------------------------
+-Total Cases: 7981
+-Total Deaths: 482
+-Recovered: 1887
+-Active Cases: 6094
+****************************************
+Covid-19 report for today 07/05/2020 10:09:04 PM:
+-Today Cases: 393 new cases
+-Today Deaths: 13 new deaths
+------------------------------
+-Total Cases: 7981
+-Total Deaths: 482
+-Recovered: 1887
+-Active Cases: 6094
+****************************************
+Covid-19 report for today 08/05/2020 06:32:04 PM:
+-Today Cases: 495 new cases
+-Today Deaths: 21 new deaths
+------------------------------
+-Total Cases: 8476
+-Total Deaths: 503
+-Recovered: 1945
+-Active Cases: 6531
+****************************************
+Covid-19 report for today 9/05/2020 04:26:08 AM:
+-Today Cases: 488 new cases
+-Today Deaths: 11 new deaths
+------------------------------
+-Total Cases: 8964
+-Total Deaths: 514
+-Recovered: 2002
+-Active Cases: 6962
+****************************************
+Covid-19 report for today 10/05/2020 11:24:36 PM:
+-Today Cases: 436 new cases
+-Today Deaths: 11 new deaths
+------------------------------
+-Total Cases: 9400
+-Total Deaths: 525
+-Recovered: 2075
+-Active Cases: 7325
+****************************************
+Covid-19 report for today 11/05/2020 09:54:38 PM:
+-Today Cases: 346 new cases
+-Today Deaths: 8 new deaths
+------------------------------
+-Total Cases: 9746
+-Total Deaths: 533
+-Recovered: 2172
+-Active Cases: 7574
+****************************************
+Covid-19 report for today 12/05/2020 11:53:11 PM:
+-Today Cases: 347 new cases
+-Today Deaths: 11 new deaths
+------------------------------
+-Total Cases: 10093
+-Total Deaths: 544
+-Recovered: 2326
+-Active Cases: 7767
+****************************************
+Covid-19 report for today 14/05/2020 06:11:43 PM:
+-Today Cases: 398 new cases
+-Today Deaths: 15 new deaths
+------------------------------
+-Total Cases: 10829
+-Total Deaths: 571
+-Recovered: 2626
+-Active Cases: 8203
+****************************************
+Covid-19 report for today 15/05/2020 03:08:46 PM:
+-Today Cases: 399 new cases
+-Today Deaths: 21 new deaths
+------------------------------
+-Total Cases: 11228
+-Total Deaths: 592
+-Recovered: 2799
+-Active Cases: 8429
+****************************************
+Covid-19 report for today 16/05/2020 07:40:00 PM:
+-Today Cases: 491 new cases
+-Today Deaths: 20 new deaths
+------------------------------
+-Total Cases: 11719
+-Total Deaths: 612
+-Recovered: 2950
+-Active Cases: 8769
+****************************************
+Covid-19 report for today 18/05/2020 04:41:38 AM:
+-Today Cases: 510 new cases
+-Today Deaths: 18 new deaths
+------------------------------
+-Total Cases: 12229
+-Total Deaths: 630
+-Recovered: 3172
+-Active Cases: 9057
+****************************************
+Covid-19 report for today 18/05/2020 08:51:09 PM:
+-Today Cases: 535 new cases
+-Today Deaths: 15 new deaths
+------------------------------
+-Total Cases: 12764
+-Total Deaths: 645
+-Recovered: 3440
+-Active Cases: 9324
+****************************************
+Covid-19 report for today 19/05/2020 07:44:41 PM:
+-Today Cases: 720 new cases
+-Today Deaths: 14 new deaths
+------------------------------
+-Total Cases: 13484
+-Total Deaths: 659
+-Recovered: 3742
+-Active Cases: 9742
+****************************************
+Covid-19 report for today 20/05/2020 09:29:27 PM:
+-Today Cases: 745 new cases
+-Today Deaths: 21 new deaths
+------------------------------
+-Total Cases: 14229
+-Total Deaths: 680
+-Recovered: 3994
+-Active Cases: 10235
+****************************************
+Covid-19 report for today 06/09/2020 08:19:53 PM:
+-Today Cases: 130 new cases
+-Today Deaths: 16 new deaths
+------------------------------
+-Total Cases: 99712
+-Total Deaths: 5511
+-Recovered: 77208
+-Active Cases: 22504
+****************************************
